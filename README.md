@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @op-cs
 - 👀 I’m interested in Web Development, Python, Computers and Computer Science in General.
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently learning machine learning and full stack web development.
 - 💞️ I’m looking to collaborate on web and python applications.
 - 📫 How to reach me: 
 - Email: poskaras1@gmail.com
