@@ -4,4 +4,4 @@ This github may seem empty but I can assure you alot of work is being done in th
 
 Contact me:
 - Email: poskaras1@gmail.com
-- Discord: @oskaras.sci
+
